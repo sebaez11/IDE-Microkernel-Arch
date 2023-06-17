@@ -1,0 +1,11 @@
+com\editor\views\EditorPanel.class
+com\editor\views\EditorPanel$2.class
+com\editor\services\InitialFileService.class
+com\editor\views\EditorPanel$4.class
+com\editor\controllers\ComponentController.class
+com\editor\controllers\InitialFileController.class
+com\editor\views\EditorPanel$5.class
+com\editor\services\ComponentService.class
+com\editor\utils\FileUtils.class
+com\editor\views\EditorPanel$3.class
+com\editor\views\EditorPanel$1.class
